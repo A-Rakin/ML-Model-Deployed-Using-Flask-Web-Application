@@ -1,0 +1,27 @@
+1. Program: MBA: For BBA degree holders
+   Semester Fee: *Tk 41,453/- per semester (approx.)
+
+2. Program: MBA: For Masters or 4 year Bachelor degree holders other than BBA
+   Semester Fee: *TK 44,245/- per semester (approx.)
+
+3. Program: MPH: Master of Public Health
+   Semester Fee: *TK 25,345/- per semester (approx.)
+
+4. Program: MSc in CSE
+   Semester Fee: *Tk 44,960/- per semester (approx.)
+
+5. Program: MSc in CE
+   Semester Fee: *Tk 44,960/- per semester (approx.)
+
+6. Program: BBA: Bachelor of Business Administration
+   Semester Fee: *TK 67,871/- per semester (approx.)
+
+7. Program: BCSE: Bachelor of Computer Science and Engineering
+   Semester Fee: *TK 71,235/- per semester (approx.)
+
+8. Program: BSCE: Bachelor of Science in Civil Engineering
+   Semester Fee: *TK 73,953/ per semester (approx.)
+
+9. Program: BSEEE: Bachelor of Science in Electrical and Electronics Engineering
+   Semester Fee: *TK 74,371/ per semester (approx.)
+
